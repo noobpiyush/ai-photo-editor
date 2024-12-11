@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/db/prisma.ts","./src/routes/routes.ts","./src/routes/auth-route/auth.ts","./src/zod-schemas/auth-schema.ts"],"version":"5.7.2"}
